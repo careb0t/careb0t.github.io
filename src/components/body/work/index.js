@@ -15,7 +15,7 @@ function Work() {
         })}
       </div>
       <div className="resume-button-container">
-        <a href={process.env.PUBLIC_URL + 'resume.pdf'} download={process.env.PUBLIC_URL + '/img/logo.png'} className="resume-button">Download Resume</a>
+        <a href="https://careb0t.github.io/resume.pdf" download="https://careb0t.github.io/resume.pdf" className="resume-button">Download Resume</a>
       </div>
     </div>
   );  
