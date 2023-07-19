@@ -5,7 +5,7 @@ export const ProjectData=[
         about: "A daily puzzle game based around the popular card game 'Magic: The Gathering.",
         tags:["VueJS", "Quasar"],
         demo:"https://commandle.github.io",
-        github:"https://github.com/commandle/commandle",
+        github:"https://github.com/careb0t/mtgcardgame",
         image:require("../../assets/screenshots/commandle.png"),
     },
     {
